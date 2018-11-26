@@ -1,0 +1,6 @@
+intestfc.txt line 1
+intestfc.txt line 2
+intestfc.txt line 3
+intestfc.txt line 4
+intestfc.txt line 5
+intestfc.txt line 6 of 6
